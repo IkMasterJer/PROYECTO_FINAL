@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCFProyecto.ServicioCliente.ServCliente" CodeBehind="ServCliente.svc.cs" %>
